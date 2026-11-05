@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:28.808758+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z7501-ambient-bell-arpeggios-opening/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "baa814173913a85ed8f9c541d2d4d6ae7e2a8c696f0b1775623d9941be7c535e",
+      "errors": []
+    },
+    {
+      "path": "midi/z7501-ambient-bell-arpeggios-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "1b62553145642c3e67979608fbb2b6c4b3799567a44a98f384f3c7653e8bba84",
+      "errors": []
+    },
+    {
+      "path": "midi/z7501-ambient-bell-arpeggios-opening/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7501-ambient-bell-arpeggios-opening/principal_motif.mid",
+      "bytes": 491,
+      "sha256": "0a0878622934257001c5876c0ee02bbfb2c36a6ba8946605e85e1a86c4ca5a9d",
+      "errors": []
+    },
+    {
+      "path": "midi/z7501-ambient-bell-arpeggios-opening/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "d532864c11c0a548f280dfd66c91ee5f71d694e6f58299d0d7956f74d2755ddf",
+      "errors": []
+    },
+    {
+      "path": "midi/z7501-ambient-bell-arpeggios-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "6ac10f578954e53ec33542a5d6169dd2ffd881e659ee86008bf083fc1fd18fee",
+      "errors": []
+    },
+    {
+      "path": "midi/z7501-ambient-bell-arpeggios-opening/z7501-ambient-bell-arpeggios-opening-combined.mid",
+      "bytes": 3088,
+      "sha256": "cd8b8f6713586ef8a62978883b53d232eeec4a6c9ba1da41f970ed90498cd9b9",
+      "errors": []
+    },
+    {
+      "path": "midi/z7502-ambient-bell-arpeggios-variation/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "1312bbd5f8070d1444b12b3f9393ee2335286fcfded6c797fd39e2124a04c32f",
+      "errors": []
+    },
+    {
+      "path": "midi/z7502-ambient-bell-arpeggios-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "5925227c3a529e5ffd4e5a25d88c50fcfe69e99884ba994bd4a57d8989254f8a",
+      "errors": []
+    },
+    {
+      "path": "midi/z7502-ambient-bell-arpeggios-variation/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7502-ambient-bell-arpeggios-variation/principal_motif.mid",
+      "bytes": 490,
+      "sha256": "f5b379c8669dff8568276859ded25c4f12376b37ecbf8abbb10c7b945dd1fe65",
+      "errors": []
+    },
+    {
+      "path": "midi/z7502-ambient-bell-arpeggios-variation/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "cedfb57839bbba739596b83cb9783f10967518dc63dba45a12e4bf175a097e01",
+      "errors": []
+    },
+    {
+      "path": "midi/z7502-ambient-bell-arpeggios-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ce20ddf597092642c21a9294b2db07845245542f0fd4c74aefe0252bd8138e4c",
+      "errors": []
+    },
+    {
+      "path": "midi/z7502-ambient-bell-arpeggios-variation/z7502-ambient-bell-arpeggios-variation-combined.mid",
+      "bytes": 3087,
+      "sha256": "886a470e456717650ec9f8535d904e4da7226a761a22eaa693f1e07612f335b4",
+      "errors": []
+    },
+    {
+      "path": "midi/z7503-ambient-bell-arpeggios-contrast/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "257fff484104143fd6172a3b0917b98fa544f98d6434e15fb558accc29dc4f04",
+      "errors": []
+    },
+    {
+      "path": "midi/z7503-ambient-bell-arpeggios-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "802adb3881af7ed0d3053924a3ad851c59ee45aeed3378846468d9393fa27257",
+      "errors": []
+    },
+    {
+      "path": "midi/z7503-ambient-bell-arpeggios-contrast/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7503-ambient-bell-arpeggios-contrast/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "7ee20c291436a65c2048bca80bb48d2473b6a7ce99c1db63125d1892970dacf4",
+      "errors": []
+    },
+    {
+      "path": "midi/z7503-ambient-bell-arpeggios-contrast/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "785916af75dafe007654fba28742fd749376ecedc15e82fed340ba5c15127335",
+      "errors": []
+    },
+    {
+      "path": "midi/z7503-ambient-bell-arpeggios-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ffa608b531925519343d82e7d5ac133eacfe7b907ea5bb8e6a1ced0a9c993d50",
+      "errors": []
+    },
+    {
+      "path": "midi/z7503-ambient-bell-arpeggios-contrast/z7503-ambient-bell-arpeggios-contrast-combined.mid",
+      "bytes": 3067,
+      "sha256": "4f7aba1d6dfdfd4a29bfd42437356942857e7440fbb73b16db7235e25d12786f",
+      "errors": []
+    },
+    {
+      "path": "midi/z7504-ambient-bell-arpeggios-return/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "1f43237df59ac7fc3048f7da346ade16aaf60f336902a41ae3c4fe59a652885f",
+      "errors": []
+    },
+    {
+      "path": "midi/z7504-ambient-bell-arpeggios-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "a7a9c2a66ce38d673ec8dec50bb22398d432e7ad0b28a422adcdb7746a654af0",
+      "errors": []
+    },
+    {
+      "path": "midi/z7504-ambient-bell-arpeggios-return/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7504-ambient-bell-arpeggios-return/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "863af1f68c4e1fb544d3bb3c66f4dbb3aaa674963e4a850ba3a62eef17b7e5ac",
+      "errors": []
+    },
+    {
+      "path": "midi/z7504-ambient-bell-arpeggios-return/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "63e07f7c35ca3b1e675343ef64d90bf239cc6bf49784c21672fc7db5d7664fde",
+      "errors": []
+    },
+    {
+      "path": "midi/z7504-ambient-bell-arpeggios-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "e3f51b3ff0477146cbb68e474b25fbdbd4fb409dbe7f4c23e5b2e9f51babec8e",
+      "errors": []
+    },
+    {
+      "path": "midi/z7504-ambient-bell-arpeggios-return/z7504-ambient-bell-arpeggios-return-combined.mid",
+      "bytes": 3067,
+      "sha256": "b33eed4c0271bc4fd452f2a664ad4cbf650ad3c5bf1b007225376936c46c856f",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

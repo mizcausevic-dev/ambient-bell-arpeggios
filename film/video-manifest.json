@@ -1,0 +1,26 @@
+{
+  "title": "Ambient Bell Arpeggios",
+  "study": "z7501",
+  "bpm": 72,
+  "source_audio": "preview/ambient-bell-arpeggios-simple-synth-preview.mp3",
+  "source_audio_sha256": "522d188d95c402b2ddc48a15540f13ea66ab1cdf62a24b6897017130e05646cd",
+  "source_midi": "midi/z7501-ambient-bell-arpeggios-opening/z7501-ambient-bell-arpeggios-opening-combined.mid",
+  "source_midi_sha256": "cd8b8f6713586ef8a62978883b53d232eeec4a6c9ba1da41f970ed90498cd9b9",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "621019b8b9efd6fc61fd18aecee87cfd3277b7e50f2555485cccb2293c366d02",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "61d95fec664ba76566d2565b338899e378883f136096aef47e3e807f99334154",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "b9ead2cf76a28da588ab8e7940e5ea00494b9de7f481ca45bb3e6cb658b522a9",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
