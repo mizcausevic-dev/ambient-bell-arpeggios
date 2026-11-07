@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/ambient-bell-arpeggios-midi.zip",
-      "bytes": 24360,
-      "sha256": "e81f8aafad6aa10340c07dd87821396e051812afbe13c7c001555eab6611e82c"
+      "bytes": 25347,
+      "sha256": "05607fac86999c51909a12d695609b653cb171df0ec66957d2ded62066a6a88c"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9970,
-      "sha256": "26fdb94f1d4715a031ea0fee03b31b89b6aa03ec493b263f8dc6da424fd0bc71"
+      "bytes": 10160,
+      "sha256": "d01e9901b5a29bc81928a9f2dcad3574f66805af2efb31ad348ca09dc468c509"
     },
     {
       "path": "midi/z7501-ambient-bell-arpeggios-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "b33eed4c0271bc4fd452f2a664ad4cbf650ad3c5bf1b007225376936c46c856f"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/ambient-bell-arpeggios-simple-synth-preview.mp3",
       "bytes": 2573627,
       "sha256": "522d188d95c402b2ddc48a15540f13ea66ab1cdf62a24b6897017130e05646cd"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3974,
-      "sha256": "5fc672fa5080f8206f572fa3ebd19a971ac274d754b1f537a6fa12d3ec578aac"
+      "bytes": 4089,
+      "sha256": "070c35b6a643f044e8a51fa707c7de46141ac8c14925677c6b788aa1e9210efe"
     },
     {
       "path": "social/instagram/caption.txt",
